@@ -16,9 +16,9 @@ def welcome_assignment_answers(question):
     elif question == "Is MD5 a secured hashing algorithm? - Yes/No":
         answer = "No"
     elif question == "In Slack, what is the secret passphrase posted in the #lab-python-getting-started channel posted by a TA?":
-        answer = "No"    
+        answer = "mTCP"    
     elif question == "What is the SHA256 hashing value to the following message: 'NYU Computer Networking' - Use SHA256 hash generator and use the answer in your code":
-        answer = "No"
+        answer = "7CFC0C04BFD7AC3D1770C01CF2B475ECF5E5FCD0B36F6BAFE9B23E818B0D6BCD"
     elif question == "What layer of the TCP/IP model does the protocol DNS belong to? - The answer should be an integer number":
         answer = "No"
     elif question == "What layer of the TCP/IP model does the protocol ICMP belong to? - The answer should be an integer number":
