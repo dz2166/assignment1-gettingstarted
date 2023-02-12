@@ -14,7 +14,7 @@ def welcome_assignment_answers(question):
     elif question == "Is a hashed message supposed to be un-hashed? - Yes/No":
         answer = "No"
     elif question == "Is MD5 a secured hashing algorithm? - Yes/No":
-        answer = "Yes"
+        answer = "No"
     else: 
         ### you should understand why this else case should be included
         ### what happens if there is a typo in one of the questions?
