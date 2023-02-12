@@ -18,11 +18,11 @@ def welcome_assignment_answers(question):
     elif question == "In Slack, what is the secret passphrase posted in the #lab-python-getting-started channel posted by a TA?":
         answer = "mTCP"    
     elif question == "What is the SHA256 hashing value to the following message: 'NYU Computer Networking' - Use SHA256 hash generator and use the answer in your code":
-        answer = "7CFC0C04BFD7AC3D1770C01CF2B475ECF5E5FCD0B36F6BAFE9B23E818B0D6BCD"
+        answer = "e637a71f4c8b4e0429ea4c7d0f3a3e3a9b4838ab6fb88f6eaede7c4e6db4f7c9D"
     elif question == "What layer of the TCP/IP model does the protocol DNS belong to? - The answer should be an integer number":
-        answer = "No"
+        answer = "4"
     elif question == "What layer of the TCP/IP model does the protocol ICMP belong to? - The answer should be an integer number":
-        answer = "No" 
+        answer = "3" 
     else: 
         ### you should understand why this else case should be included
         ### what happens if there is a typo in one of the questions?
